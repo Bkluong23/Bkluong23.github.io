@@ -16,8 +16,12 @@ h1 {
 h2 {
 	font-family: 'times new roman';
 	font-weight: 10; 
-	color: Green;
+	color: Red;
 	}
+
+#navbar-brand {
+	color: red;
+}
 
 #summary {
 	color: red;
